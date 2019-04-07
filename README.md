@@ -5,7 +5,7 @@ Go言語習得用のテストです。
 
 ウェブページのスクレイピングを行います。
 
-## Libarary
+## Library
 
 * Gin
 * fresh
